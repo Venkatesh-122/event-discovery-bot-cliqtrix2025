@@ -188,7 +188,7 @@ Try these profiles:
 
 ## 👥 Team
 
-- **M.Venkatesh** - Full-stack Developer
+- **M.Venkatesh** - Machine learning Enthusiastic
 - **Contact**: venkateshvenkateah789@gmail.com
 
 ---
